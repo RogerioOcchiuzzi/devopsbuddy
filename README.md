@@ -5,3 +5,7 @@ Site do Curso " Become a Full Stack Developer with Spring, AWS and Stripe"
 
 Executar comando:
 mvn clean install
+
+# Como compilar os arquivos .jar:
+mvn clean package
+
