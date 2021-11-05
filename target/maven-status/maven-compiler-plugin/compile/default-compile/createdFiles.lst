@@ -1,3 +1,6 @@
-com/devopsbuddy/web/controllers/Controller.class
-com/devopsbuddy/web/controllers/HelloWorldController.class
+com/devopsbuddy/web/i18n/I18NService.class
 com/devopsbuddy/DevopsbuddyApplication.class
+com/devopsbuddy/web/controllers/Controller.class
+com/devopsbuddy/config/I18NConfg.class
+com/devopsbuddy/web/controllers/HelloWorldController.class
+com/devopsbuddy/web/controllers/IndexController.class
